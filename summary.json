@@ -1,7 +1,7 @@
 {
     "ProductId": "iFlag.Extension.Default",
     "Type": "Software",
-    "FullReleaseHistoryUrl": "",
+    "FullReleaseHistoryUrl": "https://raw.githubusercontent.com/daremzsrc/versionCheck/master/history.json",
     "Stable": 
     {
         "Version": "2.0.0.0",
