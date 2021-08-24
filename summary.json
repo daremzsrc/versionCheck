@@ -1,0 +1,11 @@
+{
+    "ProductId": "iFlag.Extension.Default",
+    "Type": "Software",
+    "FullReleaseHistoryUrl": "",
+    "Stable": 
+    {
+        "Version": "2.0.0.0",
+        "Hash": "1234567890",
+        "Url": "",
+    }
+}
