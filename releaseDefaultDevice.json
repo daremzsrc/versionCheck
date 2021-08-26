@@ -1,0 +1,16 @@
+{
+    "ProductId": "iFlag.Device.Default",
+    "Type": "ArduinoFirmware",
+    "StableVersion": "2.0.0.0",
+    "Releases":
+    [
+        {
+            "Date": "2021-08-24T00:00:00.000-07:00",
+            "Version": "2.0.0.0",
+            "Hash": "1234567890",
+            "Url": "",
+            "Type": "Stable",
+            "Description": "First!!!"
+        }
+    ]
+}
