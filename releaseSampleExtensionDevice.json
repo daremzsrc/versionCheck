@@ -18,15 +18,15 @@
                     "Items":
                     [
                         "Sampling samples!",
-                        "Sampled sampling!"
-                        "SAMPLES! SAMPLES! SAMPLES!",
+                        "Sampled sampling!",
+                        "SAMPLES! SAMPLES! SAMPLES!"
                     ]
                 },
                 {
-                    "Header": "Bug fixes"
+                    "Header": "Bug fixes",
                     "Items":
                     [
-                        "Sampling of sampled samples now correctly samples",
+                        "Sampling of sampled samples now correctly samples"
                     ]
                 }               
             ]

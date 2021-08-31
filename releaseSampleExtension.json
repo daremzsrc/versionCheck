@@ -23,10 +23,10 @@
                     ]
                 },
                 {
-                    "Header": "Bug fixes"
+                    "Header": "Bug fixes",
                     "Items":
                     [
-                        "Code mostly compiles on occasion",
+                        "Code mostly compiles on occasion"
                     ]
                 }               
             ]

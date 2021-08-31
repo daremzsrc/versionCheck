@@ -18,15 +18,15 @@
                     "Items":
                     [
                         "Thas!",
-                        "Something else!"
-                        "This!",
+                        "Something else!",
+                        "This!"
                     ]
                 },
                 {
-                    "Header": "Bug fixes"
+                    "Header": "Bug fixes",
                     "Items":
                     [
-                        "No longer permanantly blinds user when displaying image",
+                        "No longer permanantly blinds user when displaying image"
                     ]
                 }               
             ]

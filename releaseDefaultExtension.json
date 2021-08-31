@@ -23,10 +23,10 @@
                     ]
                 },
                 {
-                    "Header": "Bug fixes"
+                    "Header": "Bug fixes",
                     "Items":
                     [
-                        "No longer causes speakers to emit shriek when collision risk increases",
+                        "No longer causes speakers to emit shriek when collision risk increases"
                     ]
                 }               
             ]
