@@ -1,5 +1,5 @@
 {
-    "ProductId": "iFlag.Extension.Default",
+    "ProductId": "iFlagSample.Extension.Sample",
     "Type": "Software",
     "StableVersion": "2.0.0.0",
     "Releases":
@@ -17,16 +17,16 @@
                     "Header": "Features"
                     "Items":
                     [
-                        "Things!",
-                        "Stuff!",
-                        "Randomness!"
+                        "Samples!",
+                        "More Samples!",
+                        "EVEN MORE SAMPLES!!!!"
                     ]
                 },
                 {
                     "Header": "Bug fixes"
                     "Items":
                     [
-                        "No longer causes speakers to emit shriek when collision risk increases",
+                        "Code mostly compiles on occasion",
                     ]
                 }               
             ]

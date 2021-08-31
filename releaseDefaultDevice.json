@@ -10,7 +10,26 @@
             "Hash": "1234567890",
             "Url": "",
             "Type": "Stable",
-            "Description": "First!!!"
+            "Summary": "First!!!",
+            "Details":
+            [
+                {
+                    "Header": "Features"
+                    "Items":
+                    [
+                        "Thas!",
+                        "Something else!"
+                        "This!",
+                    ]
+                },
+                {
+                    "Header": "Bug fixes"
+                    "Items":
+                    [
+                        "No longer permanantly blinds user when displaying image",
+                    ]
+                }               
+            ]
         }
     ]
 }
