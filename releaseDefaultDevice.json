@@ -14,7 +14,7 @@
             "Details":
             [
                 {
-                    "Header": "Features",
+                    "Heading": "Features",
                     "Items":
                     [
                         "Thas!",
@@ -23,7 +23,7 @@
                     ]
                 },
                 {
-                    "Header": "Bug fixes",
+                    "Heading": "Bug fixes",
                     "Items":
                     [
                         "No longer permanantly blinds user when displaying image"

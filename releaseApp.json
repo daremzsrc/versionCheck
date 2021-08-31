@@ -14,7 +14,7 @@
             "Details":
             [
                 {
-                    "Header": "Features",
+                    "Heading": "Features",
                     "Items":
                     [
                         "This!",
@@ -23,7 +23,7 @@
                     ]
                 },
                 {
-                    "Header": "Bug fixes",
+                    "Heading": "Bug fixes",
                     "Items":
                     [
                         "No longer causes supernova immediately upon launch"

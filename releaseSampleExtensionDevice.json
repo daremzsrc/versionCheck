@@ -14,7 +14,7 @@
             "Details":
             [
                 {
-                    "Header": "Features",
+                    "Heading": "Features",
                     "Items":
                     [
                         "Sampling samples!",
@@ -23,7 +23,7 @@
                     ]
                 },
                 {
-                    "Header": "Bug fixes",
+                    "Heading": "Bug fixes",
                     "Items":
                     [
                         "Sampling of sampled samples now correctly samples"

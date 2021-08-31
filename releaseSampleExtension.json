@@ -14,7 +14,7 @@
             "Details":
             [
                 {
-                    "Header": "Features",
+                    "Heading": "Features",
                     "Items":
                     [
                         "Samples!",
@@ -23,7 +23,7 @@
                     ]
                 },
                 {
-                    "Header": "Bug fixes",
+                    "Heading": "Bug fixes",
                     "Items":
                     [
                         "Code mostly compiles on occasion"

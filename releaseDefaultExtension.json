@@ -14,7 +14,7 @@
             "Details":
             [
                 {
-                    "Header": "Features",
+                    "Heading": "Features",
                     "Items":
                     [
                         "Things!",
@@ -23,7 +23,7 @@
                     ]
                 },
                 {
-                    "Header": "Bug fixes",
+                    "Heading": "Bug fixes",
                     "Items":
                     [
                         "No longer causes speakers to emit shriek when collision risk increases"
