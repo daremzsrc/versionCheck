@@ -1,6 +1,6 @@
 {
-    "ProductId": "iFlagSample.Device.SingleLight",
-    "Type": "ArduinoFirmware",
+    "ProductId": "iFlag.Extension.Default",
+    "Type": "Software",
     "StableVersion": "2.0.0.0",
     "Releases":
     [
@@ -14,19 +14,19 @@
             "Details":
             [
                 {
-                    "Header": "Features"
+                    "Header": "Features",
                     "Items":
                     [
-                        "Sampling samples!",
-                        "Sampled sampling!"
-                        "SAMPLES! SAMPLES! SAMPLES!",
+                        "Things!",
+                        "Stuff!",
+                        "Randomness!"
                     ]
                 },
                 {
                     "Header": "Bug fixes"
                     "Items":
                     [
-                        "Sampling of sampled samples now correctly samples",
+                        "No longer causes speakers to emit shriek when collision risk increases",
                     ]
                 }               
             ]
