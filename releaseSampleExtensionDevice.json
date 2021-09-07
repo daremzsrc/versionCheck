@@ -4,32 +4,40 @@
     "StableVersion": "2.0.0.0",
     "Releases":
     [
-        {
-            "Date": "2021-08-24T00:00:00.000-07:00",
-            "Version": "2.0.0.0",
-            "Hash": "1234567890",
-            "Url": "",
-            "Type": "Stable",
-            "Summary": "First!!!",
-            "Details":
+      {
+        "Date": "2021-08-24T00:00:00.000-07:00",
+        "Type": "Stable",
+        "Version": "2.0.0.0",
+        "PackageUrl": "",
+        "PackageHash": "1234567890",
+        "Summary": "First!!!",
+        "Details":
+        [
+          {
+            "Heading": "Features",
+            "Items":
             [
-                {
-                    "Heading": "Features",
-                    "Items":
-                    [
-                        "Sampling samples!",
-                        "Sampled sampling!",
-                        "SAMPLES! SAMPLES! SAMPLES!"
-                    ]
-                },
-                {
-                    "Heading": "Bug fixes",
-                    "Items":
-                    [
-                        "Sampling of sampled samples now correctly samples"
-                    ]
-                }               
+              "Sampling samples!",
+              "Sampled sampling!",
+              "SAMPLES! SAMPLES! SAMPLES!"
             ]
-        }
+          },
+          {
+            "Heading": "Bug fixes",
+            "Items":
+            [
+              "Sampling of sampled samples now correctly samples"
+            ]
+          }
+        ],
+        "Dependencies":
+        [
+          {
+            "Id": "iFlag.Application",
+            "Type": "Host",
+            "MinimumVersion": "2.0.0.0"
+          }
+        ]
+      }
     ]
 }
